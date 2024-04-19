@@ -17,9 +17,9 @@
 ![Screenshot](images/Portfolio%20Screenshot.png)
 
 ## Link
- Solution URL:
+ Solution URL: https://github.com/kk6625/Portfolio
  
- Live Site URL: 
+ Live Site URL: https://kk6625.github.io/Portfolio/
 
 
 ## Author
